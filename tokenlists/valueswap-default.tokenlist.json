@@ -967,7 +967,7 @@
     },
     {
       "name": "Valueswap",
-      "address": "0x7F8d5E6C61685cCc92970c17c2659341e7eDAfe2",
+      "address": "0x0615FBaD703b9450EEE437bbD39e6C88B18eEc8B",
       "symbol": "VNTW",
       "decimals": 18,
       "chainId": 1,
@@ -1039,7 +1039,7 @@
     },
     {
       "name": "Valueswap",
-      "address": "0x7F8d5E6C61685cCc92970c17c2659341e7eDAfe2",
+      "address": "0x0615FBaD703b9450EEE437bbD39e6C88B18eEc8B",
       "symbol": "VNTW",
       "decimals": 18,
       "chainId": 3,
@@ -1079,7 +1079,7 @@
     },
     {
       "name": "Valueswap",
-      "address": "0x7F8d5E6C61685cCc92970c17c2659341e7eDAfe2",
+      "address": "0x0615FBaD703b9450EEE437bbD39e6C88B18eEc8B",
       "symbol": "VNTW",
       "decimals": 18,
       "chainId": 4,
@@ -1103,7 +1103,7 @@
     },
     {
       "name": "Valueswap",
-      "address": "0x7F8d5E6C61685cCc92970c17c2659341e7eDAfe2",
+      "address": "0x0615FBaD703b9450EEE437bbD39e6C88B18eEc8B",
       "symbol": "VNTW",
       "decimals": 18,
       "chainId": 5,
@@ -1143,7 +1143,7 @@
     },
     {
       "name": "Valueswap",
-      "address": "0x7F8d5E6C61685cCc92970c17c2659341e7eDAfe2",
+      "address": "0x0615FBaD703b9450EEE437bbD39e6C88B18eEc8B",
       "symbol": "VNTW",
       "decimals": 18,
       "chainId": 42,
