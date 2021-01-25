@@ -1,6 +1,6 @@
 {
   "name": "Valueswap Token List",
-  "timestamp": "2020-12-24T05:30:20.344Z",
+  "timestamp": "2021-01-24T05:30:20.344Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -966,8 +966,8 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x8f3470A7388c05eE4e7AF3d01D8C722b0FF52374/logo.png"
     },
     {
-      "name": "Valueswap",
-      "address": "0xFa29FfdeB7666133C97768Fb438f268bd3dD0f50",
+      "name": "Value Network Token",
+      "address": "0xd0f05D3D4e4d1243Ac826d8c6171180c58eaa9BC",
       "symbol": "VNTW",
       "decimals": 18,
       "chainId": 1,
@@ -1038,14 +1038,6 @@
       "logoURI": "ipfs://QmXttGpZrECX5qCyXbBQiqgQNytVGeZW5Anewvh2jc4psg"
     },
     {
-      "name": "Valueswap",
-      "address": "0xFa29FfdeB7666133C97768Fb438f268bd3dD0f50",
-      "symbol": "VNTW",
-      "decimals": 18,
-      "chainId": 3,
-      "logoURI": "https://raw.githubusercontent.com/valuenetworklive2021/valueswap-files/master/images/token-list-logo.png"
-    },
-    {
       "name": "Wrapped Ether",
       "address": "0xc778417E063141139Fce010982780140Aa0cD5Ab",
       "symbol": "WETH",
@@ -1078,14 +1070,6 @@
       "logoURI": "ipfs://QmXttGpZrECX5qCyXbBQiqgQNytVGeZW5Anewvh2jc4psg"
     },
     {
-      "name": "Valueswap",
-      "address": "0xFa29FfdeB7666133C97768Fb438f268bd3dD0f50",
-      "symbol": "VNTW",
-      "decimals": 18,
-      "chainId": 4,
-      "logoURI": "https://raw.githubusercontent.com/valuenetworklive2021/valueswap-files/master/images/token-list-logo.png"
-    },
-    {
       "name": "Wrapped Ether",
       "address": "0xc778417E063141139Fce010982780140Aa0cD5Ab",
       "symbol": "WETH",
@@ -1100,14 +1084,6 @@
       "decimals": 18,
       "chainId": 5,
       "logoURI": "ipfs://QmXttGpZrECX5qCyXbBQiqgQNytVGeZW5Anewvh2jc4psg"
-    },
-    {
-      "name": "Valueswap",
-      "address": "0xFa29FfdeB7666133C97768Fb438f268bd3dD0f50",
-      "symbol": "VNTW",
-      "decimals": 18,
-      "chainId": 5,
-      "logoURI": "https://raw.githubusercontent.com/valuenetworklive2021/valueswap-files/master/images/token-list-logo.png"
     },
     {
       "name": "Wrapped Ether",
@@ -1140,14 +1116,6 @@
       "decimals": 18,
       "chainId": 42,
       "logoURI": "ipfs://QmXttGpZrECX5qCyXbBQiqgQNytVGeZW5Anewvh2jc4psg"
-    },
-    {
-      "name": "Valueswap",
-      "address": "0xFa29FfdeB7666133C97768Fb438f268bd3dD0f50",
-      "symbol": "VNTW",
-      "decimals": 18,
-      "chainId": 42,
-      "logoURI": "https://raw.githubusercontent.com/valuenetworklive2021/valueswap-files/master/images/token-list-logo.png"
     },
     {
       "name": "Wrapped Ether",
